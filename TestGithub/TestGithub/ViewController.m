@@ -21,6 +21,7 @@
     
     
     //hey here test....
+    NSString *test = @"tst";
 }
 
 - (void)didReceiveMemoryWarning
